@@ -31,11 +31,6 @@ Translayionsvektor : (x,y,z)
 Rotationsmatrix (3x3) Drehung um Roll,Pitch,Yaw : X,Y,Z axes
 [0 0 0 1] Zeile zur Vereifachung der Berechnungen
 
-T =[          x
-        R     y
-              z
-      0  0  0 1 ]
-
 # Bewegung und Regelung
 
 Drehmoment (Torque) : automatisch Berechnet
